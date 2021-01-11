@@ -17,6 +17,8 @@ public class Basic_1 {
 		
 		//Add place API Validation
 		//....
+//....
+        
 		//Base URL
 		RestAssured.baseURI="https://rahulshettyacademy.com";
 		
