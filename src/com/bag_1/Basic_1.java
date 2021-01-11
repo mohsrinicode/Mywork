@@ -16,7 +16,7 @@ public class Basic_1 {
 		// TODO Auto-generated method stub
 		
 		//Add place API Validation
-		
+		//....
 		//Base URL
 		RestAssured.baseURI="https://rahulshettyacademy.com";
 		
